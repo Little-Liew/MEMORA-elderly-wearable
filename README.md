@@ -64,7 +64,8 @@ json
 }
 
 
-## 4. Emergency SOS Escalation WorkflowTrigger: Hardware registers an impact ($SVM > 2.5g$ + horizontal inactivity) or user presses SOS.  Phase 1 Alert: Backend initiates an automated push alert and phone call to the primary linked caregiver[cite: 1].Phase 2 Escalation: If the alert remains unacknowledged for 60 seconds, dispatch coordinates directly to designated emergency medical services / community home staff[cite: 1].5. Development Roadmap for Contributors[ ] Implement complementary filter and SVM thresholding for MPU6050 fall detection[cite: 1].[ ] Implement deep sleep states on ESP32 to optimize Li-Po battery endurance[cite: 1].[ ] Build Flutter/React Native front-end using the UI wireframes in /docs[cite: 1].[ ] Finalize 3D printable/injection mold CAD files for the tamper-resistant lock[cite: 1].
+## 4. Emergency SOS Escalation WorkflowTrigger: 
+Hardware registers an impact ($SVM > 2.5g$ + horizontal inactivity) or user presses SOS.  Phase 1 Alert: Backend initiates an automated push alert and phone call to the primary linked caregiver[cite: 1].Phase 2 Escalation: If the alert remains unacknowledged for 60 seconds, dispatch coordinates directly to designated emergency medical services / community home staff[cite: 1].5. Development Roadmap for Contributors[ ] Implement complementary filter and SVM thresholding for MPU6050 fall detection[cite: 1].[ ] Implement deep sleep states on ESP32 to optimize Li-Po battery endurance[cite: 1].[ ] Build Flutter/React Native front-end using the UI wireframes in /docs[cite: 1].[ ] Finalize 3D printable/injection mold CAD files for the tamper-resistant lock[cite: 1].
 
 ---
 
